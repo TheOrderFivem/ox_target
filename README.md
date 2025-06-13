@@ -1,3 +1,11 @@
+## ⚠️ Notice
+
+This version of `ox_target` has been modified to improve compatibility with the latest version of `qb-core`. It is based on a prior QB-compatible version but updated.
+
+Please be aware that `ox_target` is the property of the Overextended team and remains under its original license. All changes in this version aim to retain core functionality while adapting it for modern `qb-core` environments.
+
+**Note:** The Overextended team does not provide support for `qb-core`, and this project has been archived. Please avoid contacting them regarding this modified version.
+
 # ox_target
 
 ![](https://img.shields.io/github/downloads/communityox/ox_target/total?logo=github)

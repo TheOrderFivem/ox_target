@@ -7,8 +7,8 @@ game 'gta5'
 -- Resource Information
 name 'ox_target'
 author 'Overextended'
-version '1.17.3'
-repository 'https://github.com/communityox/ox_target'
+version '1.17.2'
+repository 'https://github.com/overextended/ox_target'
 description ''
 
 -- Manifest
@@ -38,9 +38,12 @@ files {
 	'client/framework/ox.lua',
 	'client/framework/esx.lua',
 	'client/framework/qbx.lua',
+	'client/framework/qb.lua',
 	'client/compat/qtarget.lua',
+	'client/compat/qb-target.lua',
 }
 
 provide 'qtarget'
+provide 'qb-target'
 
 dependency 'ox_lib'
