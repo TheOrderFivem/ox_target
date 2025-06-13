@@ -221,7 +221,13 @@ exportHandler('AddBoxZone', function(name, center, length, width, options, targe
     local z = center.z
 
     if not options.useZ then
-        z = z + math.abs(options.maxZ - options.minZ) / 2
+        if options.minZ and options.maxZ then
+            z = (options.minZ + options.maxZ) / 2
+        else
+            options.minZ = -100
+            options.maxZ = 800
+            z = z + math.abs(options.maxZ - options.minZ) / 2
+        end
         center = vec3(center.x, center.y, z)
     end
 
