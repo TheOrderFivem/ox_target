@@ -26,7 +26,7 @@ https://coxdocs.dev/ox_target
 
 ## 💾 Download
 
-https://github.com/communityox/ox_target/releases/latest/download/ox_target.zip
+https://github.com/The-Order-Of-The-Sacred-Framework/ox_target/releases/latest/download/ox_target.zip
 
 ## ✨ Features
 
