@@ -8,10 +8,10 @@ Please be aware that `ox_target` is the property of the Overextended team and re
 
 # ox_target
 
-![](https://img.shields.io/github/downloads/communityox/ox_target/total?logo=github)
-![](https://img.shields.io/github/downloads/communityox/ox_target/latest/total?logo=github)
-![](https://img.shields.io/github/contributors/communityox/ox_target?logo=github)
-![](https://img.shields.io/github/v/release/communityox/ox_target?logo=github) 
+![](https://img.shields.io/github/downloads/The-Order-Of-The-Sacred-Framework/ox_target/total?logo=github)
+![](https://img.shields.io/github/downloads/The-Order-Of-The-Sacred-Framework/ox_target/latest/total?logo=github)
+![](https://img.shields.io/github/contributors/The-Order-Of-The-Sacred-Framework/ox_target?logo=github)
+![](https://img.shields.io/github/v/release/The-Order-Of-The-Sacred-Framework/ox_target?logo=github) 
 
 
 A performant and flexible standalone "third-eye" targeting resource, with additional functionality for supported frameworks.
