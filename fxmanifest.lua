@@ -7,8 +7,8 @@ game 'gta5'
 -- Resource Information
 name 'ox_target'
 author 'Overextended'
-version '1.17.2'
-repository 'https://github.com/overextended/ox_target'
+version '1.17.3'
+repository 'https://github.com/TheOrderFivem/ox_target'
 description ''
 
 -- Manifest
